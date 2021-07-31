@@ -1,2 +1,1 @@
-# laravel_blog
-Simple web blog on the laravel framework
+# Simple web blog on the laravel framework
